@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437924059759",
+    "project_id": "airplane-apps-3e19d",
+    "storage_bucket": "airplane-apps-3e19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437924059759:android:2250bfa094a96f5456cb9a",
+        "android_client_info": {
+          "package_name": "com.alvisa.airplane_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437924059759-1ec46r9su85p1d23jqtol84vkspgo7ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOJlHBjLkZFTUCitftX6v7ufUNqhPk2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437924059759-1ec46r9su85p1d23jqtol84vkspgo7ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
